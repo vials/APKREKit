@@ -3,6 +3,7 @@ Yet another Android based script, APKReKit (APK Reverse Engineering Kit). *ARK* 
 Utilizes Python3, Java, and apktool
 
 Downloads:
+
 https://apktool.org/
 
 https://www.java.com/en/download/manual.jsp
